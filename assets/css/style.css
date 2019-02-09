@@ -1,0 +1,14 @@
+#win-loss{
+    background-color: blanchedalmond;
+    width: 80px;
+
+}
+
+.crystal-selection img{
+    width: 100px;
+}
+
+.crystal-selection:hover{
+    cursor: pointer;
+
+}
